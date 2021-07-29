@@ -1,0 +1,19 @@
+.wrapper {
+    text-align: center;
+}
+
+.load{
+    position: absolute;
+    top: 50%;
+    left:45%;
+    width: 150px;
+    height:50px;
+    cursor: pointer;
+    border-radius: 20px;
+    background: rgba(68, 8, 20, 0.425);
+    box-shadow: 4px 4px brown;
+    
+}
+.load:hover{
+    background:linear-gradient(rgba(179, 107, 121, 0.425),white); 
+}

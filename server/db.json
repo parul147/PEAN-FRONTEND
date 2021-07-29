@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "FirstName": "Maeve",
+      "MiddleName": "Orlando",
+      "LastName": "vasquez",
+      "Email": "maeve.2331@gmail.com",
+      "PhoneNumber": "982314564",
+      "Role": "Business Assoiciate",
+      "Address": "Chicago"
+    },
+    {
+      "id": 3,
+      "FirstName": "Amy",
+      "MiddleName": "Joyce",
+      "LastName": "Santiago",
+      "Email": "AmyS.2331@gmail.com",
+      "PhoneNumber": "873414564",
+      "Role": "Chief Analyst",
+      "Address": "Brooklyn"
+    },
+    {
+      "id": 4,
+      "FirstName": "Rosa",
+      "MiddleName": "chance",
+      "LastName": "Diaz",
+      "Email": "Diaz.2331@gmail.com",
+      "PhoneNumber": "782335264",
+      "Role": "Lead HR",
+      "Address": "Brooklyn"
+    },
+    {
+      "FirstName": "Maeve",
+      "MiddleName": "Orlando",
+      "LastName": "vasquez",
+      "Email": "maeve.2331@gmail.com",
+      "PhoneNumber": "982314564",
+      "Role": "Business Assoiciate",
+      "Address": "downtown",
+      "id": 5
+    },
+    {
+      "FirstName": "Maeve",
+      "MiddleName": "Orlando",
+      "LastName": "vasquez",
+      "Email": "maeve.2331@gmail.com",
+      "PhoneNumber": "982314564",
+      "Role": "Business Assoiciate",
+      "Address": "new york",
+      "id": 6
+    }
+  ]
+}

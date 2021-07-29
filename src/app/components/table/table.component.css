@@ -1,0 +1,30 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+.form{
+width: 900px;
+margin: 18px;
+margin-top:40px;
+}
+.add{
+    margin-right: 10px;
+}
+.tablel{
+    margin-top: 80px;;
+}
+.input:focus{
+    outline: #4179ce solid 10px;
+    width: 100%;
+}
+p{
+   text-align: center;
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: 600;
+   font-size: large;
+   
+}
+.save{
+    margin-right: 10px;
+}
+
